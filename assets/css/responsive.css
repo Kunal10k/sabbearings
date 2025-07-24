@@ -174,6 +174,12 @@
 
     }
 
+    .clint_box {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+    }
+
     .swiper-button-prev:after,
     .swiper-rtl .swiper-button-next:after {
         content: 'prev';
@@ -209,12 +215,28 @@
     .step-title {
         font-size: 18px;
     }
+
+    .clint_box .items {
+        background-color: #eeeeee9e;
+        padding: 20px;
+        border-radius: 5px;
+    }
+
+    .slides-wrapper {
+        background-color: none;
+    }
 }
 
 /* Extra Extra Small Screens (Mobile - Portrait) */
 @media (max-width: 575.98px) {
     .section-header h2 {
         font-size: 25px;
+    }
+
+
+    .slide-title {
+        font-size: 30px;
+        line-height: 41px;
     }
 
     .phone-icon {
@@ -228,13 +250,19 @@
 
     }
 
+
+    .clint_box .items img {
+        width: 100%;
+        height: 50px;
+        object-fit: contain;
+    }
+
     .social-links {
         display: none;
     }
 
-    .slide {
-        height: 90%;
-    }
+  
+
 
     .bullets {
         bottom: 22%;

@@ -10,16 +10,17 @@
     <!-- Slide 1 -->
     <div class="slide active">
       <div class="slide-content">
-        <h1 class="slide-title">Reliable Bearings for Every Industrial  Need</h1>
-        <p class="slide-description">  Delivering precision-engineered bearings designed for consistent performance across automotive, railways, and heavy industries.</p>
-        <a href="#" class="slide-button">    View Product Range →</a>
+        <h1 class="slide-title">Engineered for <br> Unmatched <br> Performance</h1>
+        <p class="slide-description">Discover how SAB Bearings delivers precision-engineered products designed for enduring strength, efficiency, and peak performance.</p>
+        <a href="#" class="slide-button"> View Product Range →</a>
         <div class="phone-info">
           <div class="phone-icon">
             <i class="bi bi-telephone"></i>
           </div>
           <div class="phone-text">
             <div class="call-us">Call Us 24/7</div>
-            <div class="phone-number">+084 123 456 88</div>
+            <div class="phone-number">+91 83348 88280</div>
+
           </div>
         </div>
       </div>
@@ -28,16 +29,15 @@
         <a href="#" class="social-link">Twitter</a>
         <a href="#" class="social-link">Facebook</a>
         <a href="#" class="social-link">Instagram</a>
-        <a href="#" class="social-link">LinkedIn</a>
+        <!-- <a href="#" class="social-link">LinkedIn</a> -->
       </div>
     </div>
 
     <!-- Slide 2 -->
     <div class="slide">
       <div class="slide-content">
-        <h1 class="slide-title">Trusted by Industries.  Backed by Engineering.</h1>
-        <p class="slide-description">   From production to performance, SAB Bearings ensures durability, quality, and on-time delivery with every
-              unit.</p>
+        <h1 class="slide-title">Strength <br> Precision <br> Consistency</h1>
+        <p class="slide-description"> Harness the power of SAB Bearings’ engineered excellence, ensuring unwavering reliability, precise tolerances, and longevity.</p>
         <a href="#" class="slide-button">Learn More About SAB →</a>
         <div class="phone-info">
           <div class="phone-icon">
@@ -45,7 +45,7 @@
           </div>
           <div class="phone-text">
             <div class="call-us">Call Us 24/7</div>
-            <div class="phone-number">+084 123 456 88</div>
+            <div class="phone-number">+91 83348 88280</div>
           </div>
         </div>
       </div>
@@ -53,7 +53,7 @@
         <a href="#" class="social-link">Twitter</a>
         <a href="#" class="social-link">Facebook</a>
         <a href="#" class="social-link">Instagram</a>
-        <a href="#" class="social-link">LinkedIn</a>
+        <!-- <a href="#" class="social-link">LinkedIn</a> -->
       </div>
     </div>
 
@@ -79,7 +79,7 @@
 </section>
 
 
-<section class="about_description">
+<section class="about_description pb-0">
   <div class="about_container">
     <div class="about_left" data-aos="fade-right" data-aos-duration="2000">
       <img src="assets/img/c2.png" alt="" class="img-fluid about_img_position plane-image">
@@ -416,11 +416,14 @@
 
     </div>
 
+
+  </div>
+  <div class="container-fluid">
     <div class="owl-carousel process-carousel owl-theme">
       <!-- Step Card 1 -->
       <div class="process-card">
         <div class="circle-image">
-          <img src="assets/img/about-process-1.png" alt="Step 1" />
+          <img src="https://demo2.themelexus.com/industras/wp-content/uploads/2024/07/about-process-3.png" class="img-fluid" alt="Step 1" />
         </div>
         <div class="step-number">01</div>
         <div class="step-label">Step 01</div>
@@ -431,7 +434,7 @@
 
       <div class="process-card">
         <div class="circle-image">
-          <img src="assets/img/about-process-1.png" alt="Step 1" />
+          <img src="https://demo2.themelexus.com/industras/wp-content/uploads/2024/07/process-3.png" alt="Step 1" />
 
         </div>
         <div class="step-number">02</div>
@@ -443,7 +446,7 @@
 
       <div class="process-card">
         <div class="circle-image">
-          <img src="assets/img/about-process-1.png" alt="Step 1" />
+          <img src="https://demo2.themelexus.com/industras/wp-content/uploads/2024/07/about-process-4.png" alt="Step 1" />
 
         </div>
         <div class="step-number">03</div>
@@ -455,7 +458,7 @@
 
       <div class="process-card">
         <div class="circle-image">
-          <img src="assets/img/about-process-1.png" alt="Step 1" />
+          <img src="assets/img/about-process-4 (1).png" alt="Step 1" />
 
         </div>
         <div class="step-number">04</div>
@@ -467,7 +470,7 @@
 
       <div class="process-card">
         <div class="circle-image">
-          <img src="assets/img/about-process-1.png" alt="Step 1" />
+          <img src="assets/img/Packaging & Final Dispatch (1).png" alt="Step 1" />
 
         </div>
         <div class="step-number">05</div>
@@ -534,7 +537,6 @@
       <!-- Card 2 -->
       <div class="industry-card">
         <div class="card-text">
-          <!-- <i class="fas fa-subway"></i> -->
           <h3>Railway</h3>
           <p>Our specialized bearings for rail transport are built for stability, safety, and long-lasting performance
             under heavy loads and tough conditions.</p>
@@ -546,6 +548,56 @@
           <a href="#">Know details →</a>
         </div>
         <div class="card-image" style="background-image: url('assets/img/830fc0e905.jpg');">
+        </div>
+      </div>
+
+      <div class="industry-card">
+        <div class="card-text">
+          <h3>Aerospace</h3>
+          <p>Precision bearings that support the aerospace industry's need for reliability, accuracy, and lightweight
+            components.</p>
+          <ul>
+            <li> Lightweight design</li>
+            <li>Zero-failure tolerance</li>
+            <li>Extreme temperature support</li>
+          </ul>
+          <a href="#">Know details →</a>
+        </div>
+        <div class="card-image" style="background-image: url('assets/img/aurospace.jpg');">
+        </div>
+      </div>
+
+
+      <div class="industry-card">
+        <div class="card-text">
+          <h3>Material Handling</h3>
+          <p>Reliable solutions for industrial equipment involved in continuous operations such as conveyors, cranes,
+            and lifters.</p>
+          <ul>
+            <li> Load handling</li>
+            <li> Load handling</li>
+            <li> Extended lifespan</li>
+          </ul>
+          <a href="#">Know details →</a>
+        </div>
+        <div class="card-image" style="background-image: url('assets/img/meterial.jpg');">
+        </div>
+      </div>
+
+      <div class="industry-card">
+        <div class="card-text">
+          <h3>Heavy Machinery</h3>
+          <p>Designed to handle extreme pressures and continuous usage, our bearings power essential heavy-duty
+            equipment across industries.</p>
+          <ul>
+            <li> Shock resistance</li>
+            <li> Shock resistance</li>
+            <li> Dust protection</li>
+          </ul>
+          <a href="#">Know details →</a>
+        </div>
+        <div class="card-image"
+          style="background-image: url('assets/img/close-up-view-metal-gear_1048944-2386175.jpg');">
         </div>
       </div>
 
@@ -611,7 +663,55 @@
 
 
 
+<section class="our-clints global_padding pb-0">
+  <div class="container">
+    <div class="row g-5">
+      <div class="col-md-5">
+        <div class="clint_wrapper">
+          <h2 class="title">Partnerships That Drive Excellence
 
+          </h2>
+          <p class="para p-0 m-0">At SAB Bearings, our partners are integral to our journey of excellence. Through
+            strong alliances and shared goals, we continue to expand our reach and deliver quality solutions across
+            industries.
+          </p>
+          <img src="assets/img/ptnr-img1.png" alt="" class="img-fluid mt-3 animation d-none d-md-block">
+        </div>
+      </div>
+
+      <div class="col-md-7">
+        <div class="clint_box">
+          <div class="items">
+            <img src="assets/img/d1.png" alt="" class="img-fluid">
+          </div>
+          <div class="items">
+            <img src="assets/img/padmat.png" alt="" class="img-fluid">
+          </div>
+          <div class="items">
+            <img src="assets/img/d2.png" alt="" class="img-fluid">
+          </div>
+          <div class="items">
+            <img src="assets/img/d4.png" alt="" class="img-fluid">
+          </div>
+          <div class="items">
+            <img src="assets/img/d3.png" alt="" class="img-fluid">
+          </div>
+          <div class="items">
+            <img src="assets/img/JSL-logo-1.png" alt="" class="img-fluid">
+          </div>
+          <div class="items">
+            <img src="assets/img/pream.png" alt="" class="img-fluid">
+          </div>
+
+
+        </div>
+
+        <img src="assets/img/ptnr-img1.png" alt="" class="img-fluid mt-3 animation  d-block d-md-none">
+
+      </div>
+    </div>
+  </div>
+</section>
 
 
 

@@ -51,9 +51,9 @@
 
 
     <!-- Back to Top Button -->
-    <button id="backToTop" class="btn btn-primary position-fixed"
-        style="bottom: 20px; left: 20px; z-index: 999; display: none;">
-        <i class="bi bi-arrow-up"></i>
+    <button id="backToTop" class="btn  position-fixed"
+        style="bottom: 20px; left: 20px; z-index: 999; display: none; background-color: #bd0000e3;">
+        <i class="bi bi-arrow-up" style="color: aliceblue;"></i>
     </button>
 
 
@@ -91,23 +91,23 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="about.php">About</a>
+                                    <a class="nav-link" href="javascript:void(0)">About</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Bearings</a>
+                                    <a class="nav-link" href="javascript:void(0)">Bearings</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Search Products</a>
+                                    <a class="nav-link" href="javascript:void(0)">Search Products</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Career</a>
+                                    <a class="nav-link" href="javascript:void(0)">Career</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Gallery</a>
+                                    <a class="nav-link" href="javascript:void(0)">Gallery</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="contact.php">Contact</a>
+                                    <a class="nav-link" href="javascript:void(0)">Contact</a>
                                 </li>
 
 
@@ -115,7 +115,7 @@
                             </ul>
                         </div>
 
-                        <a href="about.html" style="text-decoration: none;">
+                        <a href="javascript:void(0)" style="text-decoration: none;">
                             <button class="btn2" type="submit">
                                 Get in Touch
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 19" class="btn2-icon">
@@ -163,7 +163,7 @@
                                         <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="about.php">About Us</a>
+                                        <a class="nav-link" href="javascript:void(0)">About Us</a>
                                     </li>
 
                                     <li class="nav-item dropdown">
@@ -172,7 +172,7 @@
                                             Services
                                         </a>
                                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <li><a class="dropdown-item" href="Freight.html">Freight Broking</a></li>
+                                            <li><a class="dropdown-item" href="javascript:void(0)">Freight Broking</a></li>
                                             <li><a class="dropdown-item"
                                                     href="Containerisation.html">Containerisation</a></li>
                                             <li><a class="dropdown-item" href="Voyage.html">Voyage Execution</a></li>
@@ -182,13 +182,13 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a class="nav-link" href="team.html">Our Team</a>
+                                        <a class="nav-link" href="javascript:void(0)">Our Team</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="career.html">Career</a>
+                                        <a class="nav-link" href="javascript:void(0)">Career</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="contact.php">Contact</a>
+                                        <a class="nav-link" href="javascript:void(0)">Contact</a>
                                     </li>
                                 </ul>
                             </div>

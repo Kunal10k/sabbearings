@@ -2198,7 +2198,7 @@ img.img-fluid-op {
 .process {
   width: 100%;
   height: auto;
-  margin-top: 80px;
+  /* margin-top: 80px; */
 }
 
 .process-container {
@@ -3008,42 +3008,41 @@ ul.list-unstyled.contact-info li {
 .process-card {
   background: #f8f8f8;
   border-radius: 10px;
-  text-align: center;
+  /* text-align: center; */
   padding: 30px 20px;
   position: relative;
   overflow: hidden;
+  max-height: 100%;
 
 }
 
 .circle-image {
-  width: 80px;
-  height: 80px;
-  margin: 0 auto 20px;
-  border-radius: 50%;
+  /* width: 80px;
+  height: 80px; */
+  /* margin: 0 auto 20px; */
+  /* border-radius: 50%; */
   overflow: hidden;
   position: relative;
 }
 
 .circle-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  width: 130px !important;
 }
 
 .step-number {
-  font-size: 72px;
+  font-size: 39px;
   font-weight: 900;
-  color: #eee;
+  color: #b9b2b2;
   position: absolute;
-  top: 32px;
-  right: 16rem;
+  top: 60px;
+  right: 60px;
   z-index: 0;
 }
 
 .step-label {
   position: absolute;
   top: 30px;
-  left: 0;
+  right: -4px;
   background: var(--secondary-color);
   color: #fff;
   font-size: 12px;
@@ -3051,6 +3050,7 @@ ul.list-unstyled.contact-info li {
   padding: 5px 10px;
   font-weight: bold;
   z-index: 1;
+  rotate: 90deg;
 }
 
 .process-card h3 {
@@ -3059,6 +3059,8 @@ ul.list-unstyled.contact-info li {
   margin: 20px 0 10px;
   z-index: 2;
   position: relative;
+  line-height: 28px;
+  height: 55px;
 }
 
 .process-card p {
@@ -3066,7 +3068,7 @@ ul.list-unstyled.contact-info li {
   color: #555;
   z-index: 2;
   position: relative;
-  padding: 0 10px;
+  /* padding: 0 10px; */
 }
 
 
@@ -3239,4 +3241,23 @@ header.sticky .img2 {
 
 .read-more span {
   margin-left: 8px;
+}
+
+.clint_box .items {
+  background-color: #eeeeee9e;
+  padding: 25px;
+  border-radius: 5px;
+}
+
+.clint_box .items img {
+  width: 100%;
+  height: 90px;
+  object-fit: contain;
+}
+
+.clint_box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+
 }
